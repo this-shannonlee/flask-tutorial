@@ -23,3 +23,4 @@ Quickstart - [https://flask.palletsprojects.com/en/stable/quickstart/](https://f
     ```
     flask --app flaskr init-db
     ```
+- Create __auth__ blueprint and views in ```auth.py```.
